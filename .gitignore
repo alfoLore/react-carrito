@@ -1,0 +1,18 @@
+# Node.js modules
+node_modules/
+
+# Configuraciones del editor
+.vscode/
+
+# Archivos de bloqueo
+package-lock.json
+yarn.lock
+
+# Carpeta de build
+dist/
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
